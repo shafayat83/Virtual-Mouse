@@ -137,21 +137,3 @@ pip install --upgrade mediapipe
 ### License
 
 This project is open-source. Feel free to use and modify it.
-
-````
-
----
-
-### ✅ Next Steps
-1. Create the **GitHub repo** → copy your project folder there.  
-2. Add `main.py`, `requirements.txt`, `README.md`.  
-3. Push to GitHub using:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Hand-Controlled Cursor"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/Hand-Controlled-Cursor.git
-git push -u origin main
-````
