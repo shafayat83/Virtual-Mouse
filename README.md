@@ -83,6 +83,8 @@ This will install:
 * OpenCV (`opencv-python`)
 * Mediapipe (`mediapipe`)
 * PyAutoGUI (`pyautogui`)
+* Pynput (`pynput`)
+* Numpy (`numpy`)
 
 ---
 
