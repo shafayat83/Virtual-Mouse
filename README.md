@@ -66,8 +66,8 @@ python --version
 Open VS Code terminal and run:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Hand-Controlled-Cursor.git
-cd Hand-Controlled-Cursor
+[git clone https://github.com/YOUR_USERNAME/Hand-Controlled-Cursor.git
+cd Hand-Controlled-Cursor](https://github.com/shafayat83/Virtual-Mouse.git)
 ```
 
 ---
