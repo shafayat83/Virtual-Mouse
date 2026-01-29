@@ -17,9 +17,13 @@ Hand-Controlled-Cursor/
 ## **requirements.txt**
 
 ```
-opencv-python
-mediapipe
-pyautogui
+pip install opencv-python
+```
+```
+pip install mediapipe
+```
+```
+pip install pyautogui
 ```
 
 ---
